@@ -11,19 +11,18 @@ Major types of policies are
 *	Grievance policy
 Now, I am going to discuss further important policies in each type and at the end I have given my suggestions in order to make improvements in that policies and thier document.
 
-## Policies which are important for me
 ##Attendance / Office Timings Policy
 The policies about attendance/office timings are most important for me. As, I am a girl so office timings is an important matter for me to consider. 
 
 
-### Working Days & Timing                          |
-#### working days are from Monday to Friday 
+### Working Days & Timing                          
+#### * working days are from Monday to Friday 
  Being IT professionalist I realize that every person in this field needs rest for 2 days after working 5 continuous days in a week.  
-#### Office timings are 9am  to 6pm 
+#### * Office timings are 9am  to 6pm 
  It’s quite reasonable timings for me. As, its difficult for me to stay out after magrib.  
-#### Employee has to put 40hrs a week and 160hrs a month 
+#### * Employee has to put 40hrs a week and 160hrs a month 
  By this policy i come to know that how much minimum effort i have to put in a month regardless of leaves. 
-#### Lunch time 1:15pm to 2:15pm 
+#### * Lunch time 1:15pm to 2:15pm 
  It sounds good that i has one hour break. 
 
 ### Attendance Guidelines 
