@@ -2,13 +2,13 @@
 ###    STE-Assignment 1 : HR POLICIES
 
 
-This document is prepared in the highlights of discussion with Mr. Bilal Iqbal (HR manager) and after my thorough study of Policies’ Document given by the company’s HR department.
+This document is prepared under the highlights of discussion with Mr. Bilal Iqbal (HR manager) and after my thorough study of Policies’ Document given by the company’s HR department.
 This document comprises of all the policies which in my opinion are most important for me.
 Major types of policies are 
 *	Attendance/ timings policy
 *	Leave policy
 *	Mobile/laptop devices policy
-*	Grievance policy
+*	Grievance policy 
 Now, I am going to discuss further important policies in each type and at the end I have given my suggestions in order to make improvements in that policies and thier document.
 
 ###Attendance / Office Timings Policy
