@@ -12,26 +12,33 @@ Major types of policies are
 Now, I am going to discuss further important policies in each type and at the end I have given my suggestions in order to make improvements in that policies and thier document.
 
 ## Policies which are important for me
-###Attendance / Office Timings Policy
+##Attendance / Office Timings Policy
 The policies about attendance/office timings are most important for me. As, I am a girl so office timings is an important matter for me to consider. 
 
 
-|               | Reasons for the importance |
-| ------------- |:--------------------------:|
-| Working Days & Timing |                         |
-|:---------------------:| ----------------------- | 
-| working days are from Monday to Friday | Being IT professionalist I realize that every person in this field needs rest for 2 days after working 5 continuous days in a week.  | 
-| Office timings are 9am  to 6pm | It’s quite reasonable timings for me. As, its difficult for me to stay out after magrib.  |
-| Employee has to put 40hrs a week and 160hrs a month | By this policy i come to know that how much minimum effort i have to put in a month regardless of leaves. |
-| Lunch time 1:15pm to 2:15pm | It sounds good that i has one hour break. |
-| ### Attendance Guidelines |                         |
-| Online attendance | I don’t need to go through manual procedures for the attendance as, i only need to logged in to DeskTime daily by remaining on my seat. |
-| Tolerance on up to 15 minutes late arrival | It’s a very good policy. Because Lahore’s traffic is quite un predictable. |
-| ### Late arrivals |                                 |
-| After 9:15 arrival will be marked late | I’m aware before so, I’ll not make such a mistake which results in LOP. |
-| 3 late arrivals will result in deduction of 1 CL | Same is the case as above. |
+## Working Days & Timing                          |
+#### working days are from Monday to Friday 
+ Being IT professionalist I realize that every person in this field needs rest for 2 days after working 5 continuous days in a week.  | 
+#### Office timings are 9am  to 6pm 
+ It’s quite reasonable timings for me. As, its difficult for me to stay out after magrib.  |
+#### Employee has to put 40hrs a week and 160hrs a month 
+ By this policy i come to know that how much minimum effort i have to put in a month regardless of leaves. |
+#### Lunch time 1:15pm to 2:15pm 
+ It sounds good that i has one hour break. |
 
-### Leave Policy
+### Attendance Guidelines |                         |
+#### Online attendance 
+ I don’t need to go through manual procedures for the attendance as, i only need to logged in to DeskTime daily by remaining on my seat. |
+#### Tolerance on up to 15 minutes late arrival 
+ It’s a very good policy. Because Lahore’s traffic is quite un predictable. |
+
+### Late arrivals |                                 |
+#### After 9:15 arrival will be marked late 
+ I’m aware before so, I’ll not make such a mistake which results in LOP. |
+#### 3 late arrivals will result in deduction of 1 CL 
+ Same is the case as above. |
+
+## Leave Policy
 ####There are following types of leaves which are discussed inthe document
 Casual Leave (CL) , Sick Leave (SL) , Privilege Leave (PL) , Maternity Leave (ML) ,Loss of Pay (LOP)   
 
